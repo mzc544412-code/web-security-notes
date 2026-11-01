@@ -4,19 +4,19 @@
 
 ## Apprentice
 
-- [ ] WHERE 子句隐藏数据
-- [ ] 登录绕过
-- [ ] UNION 确定列数
-- [ ] UNION 找文本列
-- [ ] UNION 跨表取数据
-- [ ] UNION 单列取多值
+- [√ ] WHERE 子句隐藏数据
+- [√ ] 登录绕过
+- [√ ] UNION 确定列数
+- [√ ] UNION 找文本列
+- [√ ] UNION 跨表取数据
+- [√ ] UNION 单列取多值
 
 ## Practitioner
 
-- [ ] 查询数据库类型与版本（Oracle）
-- [ ] 查询数据库类型与版本（MySQL / Microsoft）
-- [ ] 列出数据库内容（非 Oracle）
-- [ ] 列出数据库内容（Oracle）
+- [√ ] 查询数据库类型与版本（Oracle）
+- [√ ] 查询数据库类型与版本（MySQL / Microsoft）
+- [√ ] 列出数据库内容（非 Oracle）
+- [√ ] 列出数据库内容（Oracle）
 - [ ] 布尔盲注：条件响应
 - [ ] 布尔盲注：条件报错
 - [ ] 时间盲注
