@@ -32,4 +32,7 @@
 
 | # | Lab | 难度 | 核心思路 | 链接 |
 |---|---|---|---|---|
-| 01 | UNION attack, retrieving data from other tables | Apprentice | UNION 探列 → 定位回显列 → `\|\|` 拼接单列回显 | [→](union-retrieving-data) |
+| 01 | WHERE 子句绕过显示未发布商品 | Apprentice | `' OR 1=1--` 恒真 + 注释符，双条件失效 | [→](hidden-data-where-clause) |
+| 02 | 登录绕过（login bypass） | Apprentice | `administrator'--` 注释掉 password 判断 | [→](login-bypass) |
+| 03 | UNION attack, retrieving data from other tables | Apprentice | `UNION SELECT username,password` 两列都是文本，直接分列取 | [→](union-retrieving-data) |
+| 04 | UNION attack, retrieving multiple values in a single column | Practitioner | 只有一列是文本 → `\|\|` 拼接后塞进单列 | [→](union-multiple-values) |
