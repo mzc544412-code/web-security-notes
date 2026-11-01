@@ -1,6 +1,7 @@
 # SQL Injection（PortSwigger）
 
 > 官方 Lab 列表以 [官网](https://portswigger.net/web-security/sql-injection) 为准，完成一个打一个勾。
+> 速查：[五种数据库差异](db-differences)（注释符 / 拼接 / 查版本 / 查元数据）
 
 ## Apprentice
 
