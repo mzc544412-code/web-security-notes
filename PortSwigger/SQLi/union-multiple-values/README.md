@@ -1,4 +1,4 @@
-# PortSwigger · SQLi · UNION attack, retrieving data from other tables
+# PortSwigger · SQLi · UNION attack, retrieving multiple values in a single column
 
 - 平台 / 分类 / 难度：PortSwigger / SQL injection / Apprentice
 - 日期：2026-10-23
