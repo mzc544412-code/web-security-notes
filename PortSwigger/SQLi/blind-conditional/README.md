@@ -259,7 +259,10 @@ print("密码为：", password)
 ```
 
 运行输出与方法一一致，最终密码 `kgz2u2sdljydfhz7ey8z`。
+
+
 ![盲注提取结果](images.png)
+
 
 **两种方法的区别**：
 
